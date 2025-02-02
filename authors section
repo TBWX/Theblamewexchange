@@ -1,0 +1,11 @@
+<section id="author" class="section">
+    <h2>About the Author</h2>
+    <div class="author-bio">
+        <img src="author-photo.jpg" alt="Author Name" class="author-img">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+        <div class="social-links">
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+    </div>
+</section>
